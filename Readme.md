@@ -20,5 +20,3 @@ Step 7: Go to your github account add secrets like your AWS_ACCESS_KEY and AWS_A
 Step 8: Push your code into gitbhub accout and go to Actions section to see the pipeline is sucessfully is deployed or not.
 
 Step 9: See you web application by hitting your ALB DNS name.
-
-step
