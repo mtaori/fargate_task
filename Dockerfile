@@ -6,6 +6,6 @@ WORKDIR /usr/src/app
 COPY package*.json ./
 RUN npm install
 COPY . .
-# Port mapped to the docker daemon
+# Port mappping
 EXPOSE 5000
 CMD ["node", "index.js"]
